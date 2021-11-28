@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "1d711797c315edff",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb70da078f388a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c82c61dd9ae5ca8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc8daa1e63ae127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdb50e4474bb0f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29f39f11397e52f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96f9c8b572f871b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8452aa2d3d974a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfaee194a39489c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fdb70da078f388a6",
+  "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Topic 1/Note 2.md",
+    "docs/Topic 1/Note 1.md",
+    "docs/Topic 2/Note 3.md"
+  ]
+}
