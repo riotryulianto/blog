@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Blog
 
 theme:
     name: 'material'
@@ -7,19 +7,19 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: blue
+      primary: deep purple
+      accent: purple
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: blue
+      primary: deep purple
+      accent: purple
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
 
 # Extensions
