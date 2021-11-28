@@ -2,6 +2,8 @@ site_name: Blog
 
 theme:
     name: 'material'
+    font:
+      text: Inter
     palette:
 
     # Light mode
