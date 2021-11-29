@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "source"
+            "file": "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "fdb70da078f388a6",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
+    "docs/index.md",
     "docs/Linux/Note 4.md",
     "docs/Linux/Note 3.md",
     "docs/Windows/Note 2.md",
