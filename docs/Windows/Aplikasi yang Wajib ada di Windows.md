@@ -28,7 +28,7 @@ Software minimal yang perlu diinstal di setiap PC:
 
 * Jika tidak mempunyai Microsoft Office, [OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx?from=default) adalah pengganti yang tepat, karena OnlyOffice adalah program yang paling kompatibel digunakan untuk bekerja dengan file-file Microsoft Office. Alternatif: [LibreOffice](https://www.libreoffice.org/download/download/), [WPS Office](https://www.wps.com/en-ID/download/)
 
-* [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) dan [Microsoft Visual C++ Redistributable](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)merupakan komponen library yang digunakan oleh banyak pengembang software di Windows.
+* [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) dan [Microsoft Visual C++ Redistributable](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) merupakan komponen library yang digunakan oleh banyak pengembang software di Windows.
 
 ## Browser extensions
 Extension browser yang wajib diinstal di setiap PC:
