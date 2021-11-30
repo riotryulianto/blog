@@ -27,22 +27,6 @@ Terinspirasi dari video [Linus Tech Tips](https://www.youtube.com/watch?v=Qo_vwh
 
 Salah satu brand populer yang ada di toko tersebut adalah Jakemy. Brand ini juga menyediakan tools yang lumayan lengkap, mulai dari Spudger, Tweezers, sampai ke Toolbag-nya. Di bawah ini merupakan rincian seluruh tools yang saya beli dari toko tersebut.
 
-| Tools                                                                                                                          | Price | Amount | Total       |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----- | ------ | ----------- |
-| [Opening Pick](https://www.tokopedia.com/housesparepart/jakemy-jm-op014-smart-phone-opening-repair-tools-plastic-prying-picks) | 2500  | 6      | 15000       |
-| [Anti-Static Wrist Strap](https://www.tokopedia.com/housesparepart/jakemy-gelang-antistatik-jm-e01)                            | 15000 | 1      | 15000       |
-| [Metal Spudger](https://www.tokopedia.com/housesparepart/opening-tool-stanless-congkelan-pembuka-casing-3-in-1)                | 20000 | 1      | 20000       |
-| [Plastic Spudger](https://www.tokopedia.com/housesparepart/opening-tool-merek-jakemy-jm-op04-original-spuder)                  | 5000  | 1      | 5000        |
-| [Plastic Spudger](https://www.tokopedia.com/housesparepart/jakemy-jm-op017-repair-opening-tools-mobile-phone-spudger)          | 3500  | 1      | 3500        |
-| [64 Bit Driver](https://www.tokopedia.com/housesparepart/jakemy-39-in-1-watch-repair-tools-kit-jm-8112)                        | 48900 | 1      | 48900       |
-| [Flex Extension](https://www.tokopedia.com/housesparepart/jakemy-jm-h6-3x150mm-black-soft-extension-obeng-bar-flexibel)        | 15500 | 1      | 15500       |
-| [Jimmy](https://www.tokopedia.com/housesparepart/opening-tool-merek-jakemy-jm-op12-original)                                   | 29900 | 1      | 29900       |
-| [Reverse Tweezers](https://www.tokopedia.com/housesparepart/jm-t10-12-replaceable-anti-static-tweezer-set)                     | 34000 | 1      | 34000       |
-| [Angled Tweezers](https://www.tokopedia.com/housesparepart/jakemy-anti-static-elbow-curved-tweezers-jm-t7-15)                  | 14800 | 1      | 14800       |
-| [Blunt Tweezers](https://www.tokopedia.com/housesparepart/jakemy-anti-static-elbow-broad-tip-tweezers-jm-t7-13)                | 14800 | 1      | 14800       |
-| [Opening Tool](https://www.tokopedia.com/housesparepart/jakemy-jm-op011-repair-opening-tools-mobile-phone-spudger)             | 2500  | 3      | 7500        |
-| [Suction Handle](https://www.tokopedia.com/housesparepart/opening-tool-merek-jakemy-jm-sk01-original)                          | 10000 | 1      | 10000       |
-| [Toolbag](https://www.tokopedia.com/housesparepart/jakemy-jm-b09-small-professional-multifunctional-electrician)               | 85000 | 1      | 85000       |
-| **Total Price**                                                                                                                |       |        | ** 318900** | 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrcWMDtuknX9G2r9?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 Hasilnya, dengan budget kurang dari Rp350.000, saya bisa memiliki Repair Toolkit versi saya sendiri, dan tidak perlu lagi takut untuk membongkar gadget karena sudah punya toolkit yang cukup lengkap untuk kebutuhan otak-atik.
