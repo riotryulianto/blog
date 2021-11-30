@@ -1,5 +1,5 @@
- # Membuat iFixit Toolkit Versi Low Budget
-Buat yang sering menonton _Tech YouTuber_ luar negeri, pasti sudah nggak asing lagi dengan iklan-iklan yang sering muncul di dalam setiap video mereka. Saking seringnya, kita sampai hafal nama _brand_-nya. Sebelum nonton, kita udah dijejalin iklan _Adsense_, kemudian di awal video udah ada promosi produk dari sponsor, terus di akhir video dikasih promosi produk lagi. Secara nggak sengaja bikin kita jadi ingat terus sama brand-nya. Salah satu brand yang paling sering kita dengar adalah **iFixit**. 
+# Membuat iFixit Toolkit Versi Low Budget
+ Buat yang sering menonton _Tech YouTuber_ luar negeri, pasti sudah nggak asing lagi dengan iklan-iklan yang sering muncul di dalam setiap video mereka. Saking seringnya, kita sampai hafal nama _brand_-nya. Sebelum nonton, kita udah dijejalin iklan _Adsense_, kemudian di awal video udah ada promosi produk dari sponsor, terus di akhir video dikasih promosi produk lagi. Secara nggak sengaja bikin kita jadi ingat terus sama brand-nya. Salah satu brand yang paling sering kita dengar adalah **iFixit**. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IFixit_logo.svg/800px-IFixit_logo.svg.png)
 
