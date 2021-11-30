@@ -43,3 +43,14 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+
+copyright: Copyright &copy; 2021 Rio Tri Yulianto
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/riotryulianto
+      name: riotryulianto on Instagram
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/riotyulianto
+      name: riotyulianto on Twitter
