@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md",
+            "file": "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md",
+                "file": "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,8 @@
   },
   "active": "fdb70da078f388a6",
   "lastOpenFiles": [
-    "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md",
     "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
+    "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md",
     "docs/DIY/Membuat iFixit Toolkit Versi Low Budget-MSI.md",
     "docs/index.md",
     "docs/Linux/Note 4.md",
