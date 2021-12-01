@@ -1,5 +1,5 @@
 # Aplikasi yang Wajib ada di Windows
-Saat baru kpmputer ataupun menginstal ulang Windows, biasanya software yang disediakan oleh Windows sudah cukup lengkap, namun ada beberapa fitur yang kadang tidak bisa bekerja dengan baik di komputer kita. Misalnya, jika komputer kita masih menggunakan HDD, aplikasi Photo Viewer bawaan Windows 10 terasa sangat berat ketika dijalankan. Kemudian, Movies and TV bawaan Windows 10 juga tidak bisa membuka file video yang menggunakan codec tertentu.
+Saat baru komputer ataupun menginstal ulang Windows, biasanya software yang disediakan oleh Windows sudah cukup lengkap, namun ada beberapa fitur yang kadang tidak bisa bekerja dengan baik di komputer kita. Misalnya, jika komputer kita masih menggunakan HDD, aplikasi Photo Viewer bawaan Windows 10 terasa sangat berat ketika dijalankan. Kemudian, Movies and TV bawaan Windows 10 juga tidak bisa membuka file video yang menggunakan codec tertentu.
 
 Dibawah ini, ada sekumpulan aplikasi yang bisa diinstal sebagai setup awal setelah instalasi. Seluruh aplikasi yang terdapat dibawah ini sudah cukup untuk memenuhi kebutuhan sebagian besar pengguna komputer awam (orang biasa) yang hanya menggunakan komputer untuk browsing, memutar musik dan video, membuat dokumen, serta mengatur dan menyusun file.
 
