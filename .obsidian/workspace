@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
+            "file": "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
+                "file": "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fdb70da078f388a6",
   "lastOpenFiles": [
-    "Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
-    "Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
-    "Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
+    "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
+    "docs/index.md",
+    "docs/Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
+    "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
+    "README.md",
     "2021-11-22-22-49-26.png",
     "2021-11-22-22-54-02.png",
     "2021-11-22-22-52-49.png",
     "Pasted image 20220426043936.png",
-    "Pasted image 20220426044033.png",
-    "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
-    "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md"
+    "Pasted image 20220426044033.png"
   ]
 }

@@ -3,4 +3,4 @@ Selamat datang di blog saya yang sebagian besar merupakan technical blog. Blog i
 
 - [[Aplikasi yang Wajib ada di Windows]]
 - [[Membuat iFixit Toolkit Versi Low Budget]]
-- 
+- [[Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard]]
