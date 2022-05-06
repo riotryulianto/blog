@@ -1,3 +1,10 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "id"
+  ],
+  "spellcheck": true
 }
