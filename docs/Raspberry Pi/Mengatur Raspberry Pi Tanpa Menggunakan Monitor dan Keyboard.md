@@ -1,6 +1,7 @@
 Raspberry Pi adalah komputer kecil berdaya rendah yang serbaguna. Kita bisa memanfaatkannya untuk berbagai macam kebutuhan, mulai dari PC Desktop, Retro Game Emulator, Server, hingga Wi-Fi Extender. The possibilities are endless. Tapi untuk kebutuhan seperti server yang nggak begitu membutuhkan tampilan desktop, setupnya kadang suka bikin pusing. Kita harus menyiapkan mouse, keyboard, dan monitor untuk sekedar masuk ke Terminal. 
 
 Sekarang, dengan Raspberry Pi Imager versi terbaru, semua itu nggak diperlukan lagi. Kita bisa langsung mengakses Raspberry Pi setelah booting, selama kita terkoneksi ke jaringan yang sama. Alat-alat yang dibutuhkan adalah:
+
 * Raspberry Pi & Power Adapter
 * Kartu MicroSD
 * PC/Laptop (Windows, macOS ataupun Linux)
@@ -34,4 +35,4 @@ Sekarang, dengan Raspberry Pi Imager versi terbaru, semua itu nggak diperlukan l
 
 Jika tidak bisa masuk menggunakan perintah `ssh pi@raspberrypi`, maka kita harus masuk menggunakan perintah `ssh pi@[Alamat IP]`. Untuk mengetahui alamat IP perangkat Raspberry Pi, kita bisa menggunakan aplikasi seperti [Angry IP Scanner](https://angryip.org/), [Advanced IP Scanner](https://www.advanced-ip-scanner.com/), ataupun [mRemoteNG](https://mremoteng.org/). Kita juga bisa mengetahui alamat IP dengan cara login ke web interface pada router Wi-Fi.
 
-9. Sekarang, kita sudah masuk ke dalam perangkat Raspberry Pi yang ditandai dengan berubahnya posisi path menjadi `pi@raspberrypi:~ $`. Saatnya bereksperimen!
+Sekarang, kita sudah masuk ke dalam perangkat Raspberry Pi yang ditandai dengan berubahnya posisi path menjadi `pi@raspberrypi:~ $`. Saatnya bereksperimen!
