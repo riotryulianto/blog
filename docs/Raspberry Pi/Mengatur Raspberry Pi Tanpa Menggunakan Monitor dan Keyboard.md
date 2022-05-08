@@ -7,6 +7,7 @@ Sekarang, dengan Raspberry Pi Imager versi terbaru, semua itu nggak diperlukan l
 * PC/Laptop (Windows, macOS ataupun Linux)
 * Card reader (opsional)
 
+## Setting up
 1. Siapkan PC/Laptop, kemudian download dan install aplikasi Raspberry Pi Imager melalui website [Raspberry Pi](https://www.raspberrypi.com/software/). Untuk pengguna Linux selain Ubuntu dan turunannya, cek ketersediaan aplikasi pada masing-masing package manager/distro.
 	![[Pasted image 20220425200515.png]]
 2. Masukkan Kartu MicroSD pada slot yang tersedia di PC/Laptop. Jika tidak ada, bisa menggunakan card reader.
