@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fdb70da078f388a6",
+        "id": "6bedd3edd2cae7e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 246
   },
   "right": {
     "id": "96f9c8b572f871b5",
@@ -70,7 +70,7 @@
               "type": "backlink",
               "state": {
                 "file": "docs/Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdb70da078f388a6",
+  "active": "6bedd3edd2cae7e0",
   "lastOpenFiles": [
     "docs/Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
-    "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
+    "Pasted image 20220525154323.png",
     "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md",
-    "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
-    "docs/Raspberry Pi 1/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
     "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
+    "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
+    "Pasted image 20220425200515.png.md",
+    "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
     "docs/index.md",
-    "README.md",
-    "2021-11-22-22-49-26.png",
-    "2021-11-22-22-54-02.png"
+    "Pasted image 20220424135052.png",
+    "2021-11-22-22-52-49.png"
   ]
 }
