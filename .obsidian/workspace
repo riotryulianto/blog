@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
+            "file": "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
+                "file": "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +97,12 @@
   },
   "active": "6bedd3edd2cae7e0",
   "lastOpenFiles": [
+    "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
+    "docs/index.md",
     "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
     "docs/Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
     "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
-    "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
     "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md",
-    "docs/index.md",
     "Pasted image 20220525154323.png",
     "Pasted image 20220425200515.png.md",
     "Pasted image 20220424135052.png",
