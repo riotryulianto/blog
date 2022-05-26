@@ -6,11 +6,11 @@ Alat-alat yang dibutuhkan adalah:
 - Kartu MicroSD
 - PC/Laptop (Windows, macOS ataupun Linux)
 
-Pastikan Kartu MicroSD yang akan dipasang pada Raspberry Pi sudah diinstal Raspbian OS Lite (32-bit), diaktifkan ssh-nya, dan sudah disambungkan ke jaringan Wi-Fi yang sama. Lihat [[Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard]]
+Pastikan Kartu MicroSD yang akan dipasang pada Raspberry Pi sudah dipasang Raspbian OS Lite (32-bit), diaktifkan ssh-nya, dan sudah disambungkan ke jaringan Wi-Fi yang sama. Lihat [[Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard]]
 
-Untuk langkah pertama, kita pastikan bahwa Raspberry Pi sudah tersambung ke listrik dan sudah selesai booting. Pastikan juga bahwa Dongle Wi-Fi USB sudah kita colok ke salah satu port USB yang ada pada Raspberry Pi. Kemudian kita masuk ke Terminal pada Raspberry Pi melalui `ssh` menggunakan PC/Laptop.
+Untuk langkah awal, pastikan bahwa Raspberry Pi sudah tersambung ke listrik dan sudah selesai booting. Pastikan juga bahwa dongle Wi-Fi USB sudah dicolok ke salah satu port USB yang ada pada Raspberry Pi. Kemudian masuk ke Terminal pada Raspberry Pi melalui `ssh` menggunakan PC/Laptop.
 
-Setelah masuk ke Raspberry Pi, kita jalankan **update** dan **upgrade**.
+Setelah masuk ke Raspberry Pi, jalankan **update** dan **upgrade**.
 ```bash
 sudo apt update
 sudo apt upgrade
@@ -23,7 +23,7 @@ sudo apt install dnsmasq hostapd iptables
 
 
 ## Konfigurasi wpa_supplicant
-Sebelum kita mengatur hotspot, pastikan saat ini perangkat Raspberry Pi kita telah terkoneksi ke jaringan Wi-Fi yang kita inginkan untuk di-extend.
+Sebelum mengatur hotspot, pastikan saat ini perangkat Raspberry Pi telah terkoneksi ke jaringan Wi-Fi yang diinginkan untuk di-extend.
 Untuk mengubah konfigurasi **wpa_supplicant**, jalankan perintah berikut:
 ```shell
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
@@ -35,7 +35,7 @@ Simpan file dengan menekan tombol **Ctrl + X**, **Y**, kemudian **Enter**.
 
 
 ## Konfigurasi dhcpcd
-Selanjutnya, kita set IP static pada dongle Wi-Fi USB yang nantinya akan kita atur sebagai pemancar hotspot. Jadi, Wi-Fi internal berfungsi sebagai penangkap sinyal Wi-Fi, dan Dongle berfungsi sebagai pemancar hotspot. Untuk mengatur IP Static, kita edit file **dhcpcd.conf** menggunakan perintah ini:
+Selanjutnya, set IP static pada dongle Wi-Fi USB yang nantinya akan diatur sebagai pemancar hotspot. Jadi, Wi-Fi internal berfungsi sebagai penangkap sinyal Wi-Fi, dan dongle berfungsi sebagai pemancar hotspot. Untuk mengatur IP Static, kita edit file **dhcpcd.conf** menggunakan perintah ini:
 ```bash
 sudo nano /etc/dhcpcd.conf
 ```
@@ -56,7 +56,7 @@ sudo service dhcpcd restart
 
 
 ## Konfigurasi hostapd
-Kemudian, kita akan mengubah konfigurasi pada **hostapd.conf** dengan memasukkan perintah berikut:
+Kemudian, ubah konfigurasi pada **hostapd.conf** dengan memasukkan perintah berikut:
 ```shell
 sudo nano /etc/hostapd/hostapd.conf
 ```
@@ -89,7 +89,7 @@ Ganti ***ssid*** dan ***wpa_passphrase*** sesuai dengan nama yang diinginkan.
 
 Simpan file dengan menekan tombol **Ctrl + X**, **Y**, kemudian **Enter**.
 
-Kemudian, kita juga harus mengubah konfigurasi default agar **hostapd** dapat mengenali konfigurasi yang kita baru saja tambahkan.
+Kemudian, ubah konfigurasi default agar **hostapd** dapat mengenali konfigurasi yang baru saja ditambahkan.
 
 Jalankan perintah berikut:
 ```shell
@@ -127,7 +127,7 @@ Simpan file dengan menekan tombol **Ctrl + X**, **Y**, kemudian **Enter**.
 
 
 ## Konfigurasi dnsmasq
-Selanjutnya, kita akan mengubah konfigurasi **dnsmasq**. Sebelum mengubah konfigurasi tersebut, ada baiknya jika kita backup terlebih dahulu. Jalankan perintah berikut:
+Selanjutnya, ubah konfigurasi **dnsmasq**. Sebelum mengubah konfigurasi tersebut, ada baiknya jika konfigurasi tersebut di-backup terlebih dahulu. Jalankan perintah berikut:
 
 ```shell
 sudo mv /etc/dnsmasq.conf /etc/dnsmasq.conf.orig
@@ -214,8 +214,7 @@ sudo systemctl start dnsmasq
 
 Reboot untuk memastikan bahwa Wi-Fi Extender telah berfungsi dengan baik.
 
-Referensi:
-
+### Referensi:
 - https://pimylifeup.com/raspberry-pi-wifi-extender/
 
 - https://github.com/iotJumpway/RPI-Examples/blob/master/_DOCS/4-Securing-Your-Raspberry-Pi-With-IPTables.md
