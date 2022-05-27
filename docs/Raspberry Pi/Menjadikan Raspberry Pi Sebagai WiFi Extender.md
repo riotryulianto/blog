@@ -3,11 +3,8 @@ Jika sinyal Wi-Fi di rumah jangkauannya lemah, dan kebetulan punya Raspberry Pi 
 Alat-alat yang dibutuhkan adalah:
 
 - Raspberry Pi & Power Adapter
-
 - Dongle Wi-Fi USB
-
 - Kartu MicroSD
-
 - PC/Laptop (Windows, macOS ataupun Linux)
 
 Pastikan Kartu MicroSD yang akan dipasang pada Raspberry Pi sudah dipasang Raspbian OS Lite (32-bit), diaktifkan ssh-nya, dan sudah disambungkan ke jaringan Wi-Fi yang sama. Lihat [[Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard]]
