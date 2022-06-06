@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
+            "file": "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
+                "file": "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "6bedd3edd2cae7e0",
   "lastOpenFiles": [
+    "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
+    "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai Wireless Access Point.md",
+    "docs/Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
     "docs/Linux/Instalasi Driver TP-Link TL-WN823N (RTL8192EU) di Linux.md",
     "docs/Windows/Aplikasi yang Wajib ada di Windows.md",
-    "docs/Raspberry Pi/Menjadikan Raspberry Pi Sebagai WiFi Extender.md",
-    "docs/Raspberry Pi/Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard.md",
     "docs/DIY/Membuat iFixit Toolkit Versi Low Budget.md",
     "docs/index.md",
     "Pasted image 20220525154323.png",
     "Pasted image 20220425200515.png.md",
-    "Pasted image 20220424135052.png",
-    "2021-11-22-22-52-49.png"
+    "Pasted image 20220424135052.png"
   ]
 }
