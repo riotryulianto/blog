@@ -1,4 +1,4 @@
-Jika sinyal Wi-Fi di rumah jangkauannya lemah, dan kebetulan punya Raspberry Pi menganggur yang tidak tau mau dibuat apa, kita bisa manfaatkan komputer kecil ini sebagai Wi-Fi Extender.
+Jika sinyal Wi-Fi di rumah jangkauannya lemah, dan kebetulan punya Raspberry Pi menganggur yang tidak tau mau dibuat apa, kita bisa manfaatkan komputer kecil ini sebagai Wireless Access Point. Dengan memanfaatkan port Ethernet yang tersedia, koneksi internet bisa menjadi jauh lebih stabil dibandingkan dengan menggunakan dongle Wi-Fi.
 
 Alat-alat yang dibutuhkan adalah:
 
@@ -7,9 +7,9 @@ Alat-alat yang dibutuhkan adalah:
 - Kartu MicroSD
 - PC/Laptop (Windows, macOS ataupun Linux)
 
-Pastikan Kartu MicroSD yang akan dipasang pada Raspberry Pi sudah dipasang Raspbian OS Lite (32-bit), diaktifkan ssh-nya, dan sudah disambungkan ke jaringan Wi-Fi yang sama. Lihat [[Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard]]
+Pastikan Kartu MicroSD yang akan dipasang pada Raspberry Pi sudah dipasang Raspbian OS Lite (32-bit), diaktifkan ssh-nya, dan sudah disambungkan ke jaringan yang sama dengan PC/Laptop yang kita gunakan. Lihat [[Mengatur Raspberry Pi Tanpa Menggunakan Monitor dan Keyboard]]
 
-Untuk langkah awal, pastikan bahwa Raspberry Pi sudah tersambung ke listrik dan sudah selesai booting. Pastikan juga bahwa dongle Wi-Fi USB sudah dicolok ke salah satu port USB yang ada pada Raspberry Pi. Kemudian masuk ke Terminal pada Raspberry Pi melalui `ssh` menggunakan PC/Laptop.
+Untuk langkah awal, pastikan bahwa Raspberry Pi sudah tersambung ke listrik dan sudah selesai booting. Pastikan juga bahwa kabel LAN sudah dicolok ke port Ethernet/RJ45 yang ada pada Raspberry Pi. Kemudian masuk ke Terminal pada Raspberry Pi melalui `ssh` menggunakan PC/Laptop.
 
 Setelah masuk ke Raspberry Pi, jalankan **update** dan **upgrade**.
 ```bash
