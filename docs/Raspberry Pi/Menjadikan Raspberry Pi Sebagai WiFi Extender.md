@@ -83,8 +83,10 @@ ssid=WifiName
 wpa_passphrase=WifiPassword
 ```
 
-> ***interface=wlan1*** adalah interface untuk dongle Wi-Fi
-> ***interface=wlan0*** adalah perangkat Wi-Fi bawaan Raspberry Pi
+!!! note
+
+    ***interface=wlan1*** adalah interface untuk dongle Wi-Fi
+    ***interface=wlan0*** adalah perangkat Wi-Fi bawaan Raspberry Pi
 
 Ganti ***ssid*** dan ***wpa_passphrase*** sesuai dengan nama yang diinginkan.
 
