@@ -197,7 +197,7 @@ Reboot untuk memastikan bahwa Wi-Fi Extender telah berfungsi dengan baik.
 ### Referensi:
 - https://pimylifeup.com/raspberry-pi-wireless-access-point/comment-page-1/
 
-* https://www.maketecheasier.com/how-to-turn-raspberry-pi-into-wireless-access-point/
+- https://www.maketecheasier.com/how-to-turn-raspberry-pi-into-wireless-access-point/
 
 - https://raspberrypi-guide.github.io/networking/create-wireless-access-point
 
